@@ -13,6 +13,7 @@
 		DB23552C26355380009F8C0A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB23552A26355380009F8C0A /* Main.storyboard */; };
 		DB23552E26355381009F8C0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB23552D26355381009F8C0A /* Assets.xcassets */; };
 		DB23553126355381009F8C0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB23552F26355381009F8C0A /* LaunchScreen.storyboard */; };
+		DB23553A263553A1009F8C0A /* movieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB235539263553A1009F8C0A /* movieViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DB23552D26355381009F8C0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB23553026355381009F8C0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB23553226355381009F8C0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB235539263553A1009F8C0A /* movieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movieViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DB23552426355380009F8C0A /* AppDelegate.swift */,
 				DB23552626355380009F8C0A /* SceneDelegate.swift */,
 				DB23552826355380009F8C0A /* ViewController.swift */,
+				DB235539263553A1009F8C0A /* movieViewController.swift */,
 				DB23552A26355380009F8C0A /* Main.storyboard */,
 				DB23552D26355381009F8C0A /* Assets.xcassets */,
 				DB23552F26355381009F8C0A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				DB23552926355380009F8C0A /* ViewController.swift in Sources */,
 				DB23552526355380009F8C0A /* AppDelegate.swift in Sources */,
 				DB23552726355380009F8C0A /* SceneDelegate.swift in Sources */,
+				DB23553A263553A1009F8C0A /* movieViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
